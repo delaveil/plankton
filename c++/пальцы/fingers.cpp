@@ -19,7 +19,7 @@ else if (a == 4){
 else if (a == 5){
     cout << " это мизинец ";
 }
-else {
+else if ( a > 5){
     cout << " у человека только 5 пальцев(( ";
 }
     return 0;
